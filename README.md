@@ -5,7 +5,8 @@
   </a>
   
   <h3 align="center" style="color: #86868b; font-weight: 400;">
-    Graduate Student. AI Researcher. Problem Solver.
+    China Graduate Student. AI Researcher. Problem Solver.
+            一名来自中国的计算机研究生
   </h3>
   <br/>
 </div>
