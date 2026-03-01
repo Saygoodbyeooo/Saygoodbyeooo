@@ -44,7 +44,7 @@
     <a href="https://blog.chenyme.top">
       <img src="https://img.shields.io/badge/Blog-1d1d1f?style=for-the-badge&logo=apple&logoColor=white" alt="Blog"/>
     </a>
-    <a href="mailto:您的邮箱@example.com">
+    <a href="mailto:2046634699@qq.com">
       <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
     </a>
   </p>
